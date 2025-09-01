@@ -18,7 +18,7 @@ This repository contains a single, well-documented Jupyter notebook that impleme
 
 | Dataset | MAE   | MSE    | RMSE | R²     |
 |:-------:|:-----:|:------:|:----:|:------:|
-| FD001   | 10.69 | 234.23 | 15   | 0.8541 |
+| FD001   | 10.69 | 234.23 | 14   | 0.8541 |
 | FD002   | 16.39 | 476.20 | 21   | 0.7396 |
 | FD003   | 9.93  | 201.02 | 14   | 0.8690 |
 | FD004   | 16.07 | 461.97 | 21   | 0.7472 |
